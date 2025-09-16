@@ -1,6 +1,7 @@
-現為資工博士候選人，專注於自然語言處理（NLP）、持續學習（Continual Learning）與網路安全（Cybersecurity）的研究，特別關注說服技術在網路釣魚與網路霸凌中的應用與識別。研究結合適配器學習（Adapter Learning）與生成式 AI，探索如何透過跨語言 NLP 技術提升有害內容偵測與防禦能力，並在ACL、ACM、IEEE等國際學術會議發表研究成果。同時擁有豐富的軟體開發經驗，熟悉PyTorch Lightning、Transformer 模型、多模態處理，並曾參與醫療 AI 影像分析，開發基於深度學習的肝癌偵測系統。目前，致力於推動 AI 在網路安全與醫療應用的實踐，並積極探索 NLP 在動態環境下的持續學習能力。
+我專注於自然語言處理（NLP）、持續學習（Continual Learning）及網路安全（Cybersecurity）的研究，尤其關注網路釣魚與網路霸凌中的說服技術應用及其識別方法。透過生成式 AI 和適配器學習（Adapter Learning）技術，我探索跨語言 NLP 方法在有害內容偵測與防禦上的潛力，並已在國際頂尖會議如ACL、ACM及IEEE上發表多項成果。除了研究背景外，我也擁有豐富的軟體開發經驗，熟練運用 PyTorch Lightning、Transformer 模型及多模態處理技術，曾成功開發基於深度學習的肝癌偵測系統，展現人工智慧在醫療領域的實際應用能力。
 
-Currently a **PhD candidate in Computer Science**, specializing in **Natural Language Processing (NLP), Continual Learning, and Cybersecurity**, with a particular focus on the application and identification of **persuasive techniques in phishing and cyberbullying**. His research integrates **adapter learning and generative AI** to explore how **cross-lingual NLP techniques** can enhance the detection and prevention of harmful content. He has presented research findings at **ACL, ACM, and IEEE** international conferences. In addition, he has extensive software development experience, proficient in **PyTorch Lightning, Transformer models, and multimodal processing**, and has contributed to **medical AI image analysis**, developing a **deep learning-based liver cancer detection system**. Currently, he is dedicated to advancing AI applications in **cybersecurity and healthcare**, while actively exploring NLP’s continual learning capabilities in dynamic environments.
+目前，我專注於推動 AI 在網路安全與智能代理（AI Agent）中的落地應用，同時致力於提升 NLP 技術在動態環境中的持續學習能力，以期為未來的智能系統提供更高效、更具韌性的解決方案。
+
 <!--
 **swguo/swguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
